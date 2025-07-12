@@ -5,3 +5,5 @@
 
 #pragma once
 
+#define RETRO_SHIFT
+#define BILATERAL_COMBINATIONS
